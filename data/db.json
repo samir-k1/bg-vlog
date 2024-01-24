@@ -1,0 +1,22 @@
+{ "blog":[
+    {
+     
+      "author": "John Doe",
+      "title": "Introduction to React",
+      "body": "React is a JavaScript library for building user interfaces.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "author": "Jane Smith",
+      "title": "JavaScript Fundamentals",
+      "body": "Learn the basics of JavaScript programming language."
+    },
+    {
+      "id": 3,
+      "author": "Bob Johnson",
+      "title": "Web Development with Node.js",
+      "body": "Explore server-side JavaScript with Node.js for web development."
+    }
+  ]
+}
